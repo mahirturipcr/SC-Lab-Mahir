@@ -9,7 +9,7 @@ public class SavingAccount extends Account {
 	/**
 	 * SavingAccount extends Account class
 	 * in this class we implements two methods for account and interestRate
-	 * 
+	 * proper work is done at the withdraw
 	 */
 	
 	private double interestRate;
